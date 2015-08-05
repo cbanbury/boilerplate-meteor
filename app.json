@@ -5,16 +5,8 @@
     "keywords": ["meteor", "mongodb", "FlowRouter", "Materialize", "boilerplate"],
     "buildpacks": [{
         "url": "https://github.com/jordansissel/heroku-buildpack-meteor.git"
-        }],
-        "addons": [
+    }],
+    "addons": [
             "mongolab:sandbox"
-        ],
-        "env": {
-            "MONGO_URL": {
-                "description": "Should be a copy of MONGOLAB_URI"
-            },
-            "ROOT_URL": {
-                "description": "The yourapp.herokuapp.com address or custom DNS of your server."
-            }
-        },
-    }
+        ]
+}
