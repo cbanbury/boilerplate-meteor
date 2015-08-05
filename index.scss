@@ -1,4 +1,2 @@
-// You can override colors BEFORE materialize.scss:
-$primary-color: white;
-
-@import ".meteor/local/build/programs/server/assets/packages/poetic_materialize-scss/bower_components/materialize/sass/materialize.scss";
+@import "sass/pallette.scss";
+@import ".bower_components/materialize/sass/materialize.scss";

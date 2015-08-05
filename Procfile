@@ -1,1 +1,1 @@
-web: meteor
+web: bower install && meteor
