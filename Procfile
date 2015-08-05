@@ -1,1 +1,1 @@
-web: bower install && meteor
+web: node_modules/.bin/bower install && meteor

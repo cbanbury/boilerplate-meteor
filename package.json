@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cbanbury/boilerplate-meteor/issues"
   },
-  "homepage": "https://github.com/cbanbury/boilerplate-meteor#readme"
+  "homepage": "https://github.com/cbanbury/boilerplate-meteor#readme",
+  "dependencies": {
+    "bower": "^1.4.1"
+  }
 }
