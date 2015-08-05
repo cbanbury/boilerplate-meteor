@@ -7,6 +7,16 @@
         "url": "https://github.com/jordansissel/heroku-buildpack-meteor.git"
     }],
     "addons": [
-            "mongolab:sandbox"
-        ]
+        "mongolab:sandbox"
+    ],
+    "env": {
+        "MONGO_URL": {
+            "description": "Should be a copy of MONGOLAB_URI",
+            "required": true
+        },
+        "ROOT_URL": {
+            "description": "The yourapp.herokuapp.com address or custom DNS of your server.",
+            "required": true
+        }
+    }
 }
