@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/cbanbury/boilerplate-meteor#readme",
   "dependencies": {
-    "bower": "^1.4.1"
   }
 }
