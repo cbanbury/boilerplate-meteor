@@ -6,9 +6,10 @@
 
 meteor-platform
 accounts-password
-fourseven:scss@2.0.0
 alanning:roles
 erasaur:meteor-lodash
 service-configuration
 kadira:flow-router
 kadira:blaze-layout
+fourseven:scss
+mquandalle:bower
