@@ -28,7 +28,6 @@ json@1.0.3
 kadira:blaze-layout@2.0.0
 kadira:flow-router@2.0.1
 launch-screen@1.0.2
-less@1.0.14
 livedata@1.0.13
 localstorage@1.0.3
 logging@1.0.7
@@ -61,6 +60,5 @@ ui@1.0.6
 underscore@1.0.3
 url@1.0.4
 useraccounts:core@1.11.2
-useraccounts:materialize@1.11.1
 webapp@1.2.0
 webapp-hashing@1.0.3
