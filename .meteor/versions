@@ -18,6 +18,7 @@ email@1.0.6
 erasaur:meteor-lodash@3.10.0
 fastclick@1.0.3
 fourseven:scss@3.2.0
+gadicohen:phantomjs@0.0.2
 geojson-utils@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
