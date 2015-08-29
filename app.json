@@ -11,12 +11,8 @@
     ],
     "env": {
         "ROOT_URL": {
-            "description": "The your-app-name.herokuapp.com address or custom DNS of your server.",
+            "description": "The https://your-app-name.herokuapp.com address or custom DNS of your server.",
             "required": true
-        },
-        "MONGO_URL": {
-            "description": "Copy the MONGOLAB_URI from the settings after creating your app.",
-            "value": "temporary value"
         }
     }
 }
