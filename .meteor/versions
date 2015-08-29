@@ -13,12 +13,12 @@ coffeescript@1.0.6
 cosmos:browserify@0.5.0
 ddp@1.1.0
 deps@1.0.7
+dfischer:phantomjs@1.0.4
 ejson@1.0.6
 email@1.0.6
 erasaur:meteor-lodash@3.10.0
 fastclick@1.0.3
 fourseven:scss@3.2.0
-gadicohen:phantomjs@0.0.2
 geojson-utils@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
