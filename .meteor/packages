@@ -13,6 +13,6 @@ kadira:flow-router
 kadira:blaze-layout
 fourseven:scss
 mquandalle:bower
-spiderable
 tomwasd:flow-router-seo
-dfischer:phantomjs
+meteorhacks:ssr
+meteorhacks:picker
