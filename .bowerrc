@@ -1,0 +1,5 @@
+{
+  "directory": ".meteor/local/bower",
+  "analytics": false,
+  "timeout": 120000
+}
