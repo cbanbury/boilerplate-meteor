@@ -16,7 +16,7 @@
         },
         "BUILDPACK_PRELAUNCH_METEOR": {
             "description": "Workaround for compiling SASS",
-            "value": 1
+            "value": "1"
         }
     }
 }
