@@ -4,7 +4,7 @@
     "repository": "https://github.com/cbanbury/boilerplate-meteor",
     "keywords": ["meteor", "mongodb", "FlowRouter", "Materialize", "boilerplate"],
     "buildpacks": [{
-        "url": "https://github.com/AdmitHub/meteor-buildpack-horse.git"
+        "url": "https://github.com/jordansissel/heroku-buildpack-meteor.git"
     }],
     "addons": [
         "mongolab:sandbox"
@@ -13,10 +13,6 @@
         "ROOT_URL": {
             "description": "The https://your-app-name.herokuapp.com address or custom DNS of your server.",
             "required": true
-        },
-        "BUILDPACK_PRELAUNCH_METEOR": {
-            "description": "Workaround for compiling SASS",
-            "value": "1"
         }
     }
 }
