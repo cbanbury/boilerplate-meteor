@@ -12,7 +12,6 @@ kadira:flow-router
 kadira:blaze-layout
 fourseven:scss
 mquandalle:bower
-standard-minifiers
 meteor-base
 mobile-experience
 mongo
@@ -27,3 +26,5 @@ ejson
 spacebars
 check
 poetic:materialize-scss
+standard-minifier-css
+standard-minifier-js
