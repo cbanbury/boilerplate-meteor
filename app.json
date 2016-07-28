@@ -4,7 +4,7 @@
     "repository": "https://github.com/cbanbury/boilerplate-meteor",
     "keywords": ["meteor", "mongodb", "FlowRouter", "Materialize", "boilerplate"],
     "buildpacks": [{
-        "url": "https://github.com/michaltakac/meteor-buildpack-horse.git"
+        "url": "https://github.com/michaltakac/meteor-buildpack-horse.git#beta"
     }],
     "addons": [
         "mongolab:sandbox"
