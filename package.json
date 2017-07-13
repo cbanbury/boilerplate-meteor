@@ -1,0 +1,25 @@
+{
+  "name": "meteor-boilerplate",
+  "version": "1.0.0",
+  "description": "Heroku Compatible Meteor Boilerplate with FlowRouter, Materialize and other default goodies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbanbury/boilerplate-meteor.git"
+  },
+  "author": "Carl Banbury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbanbury/boilerplate-meteor/issues"
+  },
+  "homepage": "https://github.com/cbanbury/boilerplate-meteor#readme",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "bcrypt": "^1.0.2",
+    "jquery": "^3.2.1",
+    "meteor-node-stubs": "^0.2.6"
+  }
+}
